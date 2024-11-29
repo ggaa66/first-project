@@ -8,5 +8,7 @@
 	<input type="text" name="Cost">
 	<p>Количество</p> 
 	<input type="number" name="Quantity">
+	<p>Year of registratiom</p>
+	<input type="number" name="Year of registration">
 	<button type="submit">Добавить</button>
 	</form>
